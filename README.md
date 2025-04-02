@@ -8,3 +8,4 @@ Tic Tac Toe: también conocido como tres en raya, es un juego de estrategia para
 ### Curiosidades
 [Vídeo de 5 curiosidades](https://www.youtube.com/shorts/VVVz3EvTYKA)
 
+Vamos a crear un juego tradicional

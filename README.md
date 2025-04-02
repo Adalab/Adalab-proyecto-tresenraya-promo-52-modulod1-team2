@@ -8,5 +8,5 @@ Tic Tac Toe: también conocido como tres en raya, es un juego de estrategia para
 ### Curiosidades
 [Vídeo de 5 curiosidades](https://www.youtube.com/shorts/VVVz3EvTYKA)
 
-Vamos a crear un juego tradicional
-El tres en raya es un juego de estrategia que ayuda a desarrollar la coordinación óculo-manual, la concentración, la resolución de problemas y la paciencia. 
+
+El tres en raya ayuda a desarrollar la coordinación óculo-manual, la concentración, la resolución de problemas y la paciencia. 
